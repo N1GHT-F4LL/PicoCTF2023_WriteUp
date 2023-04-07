@@ -1,0 +1,3 @@
+
+
+`Flag is: picoCTF{Sch3DUL7NG_T45K3_L1NUX_5b7059d0}`
